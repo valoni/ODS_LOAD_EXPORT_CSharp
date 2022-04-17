@@ -1,4 +1,4 @@
-# - Open Document SpreadSheet from LibreOffice ODS File load tO DataGridView1 
+# - Open Document SpreadSheet from LibreOffice ODS File load to DataGridView1 by using .NET C#
 (taken from this sample https://www.codeproject.com/Articles/38425/How-to-Read-and-Write-ODF-ODS-Files-OpenDocument-2)
 with help of https://www.nuget.org/packages/Ionic.Zip/1.9.1.8  
 
